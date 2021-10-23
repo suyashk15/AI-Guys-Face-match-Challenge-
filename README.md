@@ -10,7 +10,7 @@ We resized the image matrices to (50x50) for unifromity and less processing
 
 The next step was to flatten these matrices to (2500x1)
 
-Then to normalize the values, we divided each one by 255
+Then to normalize the values, we divided each value by 255
 
 Then we subtracted the image matrices for each row, (image1 - image2) and passed this as a feature to the neural network where
 y values were the labels given in train.csv file
