@@ -6,7 +6,7 @@ Summary of the workflow:
 
 Using OpenCV, we read the train.csv file entries as images and converted them to grey images, both image1 and image2 entries
 
-Then we used Haarcascade frontalface defalut algorithm of opencv on these images to detect faces and cropped them
+Then we used Haarcascade frontalface default algorithm of opencv on these images to detect faces and then crop them
 
 We resized the image matrices to (50x50) for unifromity and less processing
 
