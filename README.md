@@ -17,7 +17,7 @@ Then to normalize the values, we divided each value by 255
 Then we subtracted the image matrices for each row, (image1 - image2) and passed this as a feature to the neural network where
 y values were the labels given in train.csv file
 
-After validating the model on our training data, we got an accuracy of 62%
+After validating the model on our training data, we got an accuracy of 63.29%
 
 When the model was used on test.csv file, we got 193 entries matched (label = 1)
 
