@@ -1,5 +1,7 @@
 # Face-match-Challenge
 
+![i1](https://user-images.githubusercontent.com/72187755/138566566-6b20bf9e-636a-4017-ba94-c99472e409b7.jpg) ![i2](https://user-images.githubusercontent.com/72187755/138566622-3bac0928-6a19-45de-bcfa-c2e07f75256e.png) ![i3](https://user-images.githubusercontent.com/72187755/138566671-277d9bc3-9856-4ba8-b576-9cbc97f76ebc.png)
+
 Summary of the workflow:
 
 Using OpenCV, we read the train.csv file entries as images and converted them to grey images, both image1 and image2 entries
